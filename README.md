@@ -3,7 +3,7 @@
  
  Cinco filósofos se sientan alrededor de una mesa y pasan su vida cenando y pensando. Cada filósofo tiene un plato de fideos y un palillo a la izquierda de su plato. Para comer los fideos son necesarios dos palillos y cada filósofo sólo puede tomar los que están a su izquierda y derecha. Si cualquier filósofo toma un tenedor y el otro está ocupado, se quedará esperando, con el palillo en la mano, hasta que pueda tomar el otro palillo, para luego empezar a comer.
  
- ![Filosofos comiendo img](https://www.google.com.mx/search?q=filosofos+comiendo&rlz=1C1CHBD_esMX778MX778&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjlkbCw887bAhWGLnwKHYZUD1gQ_AUICigB&biw=1366&bih=700#imgrc=V4DH7NOsLEFugM:)
+ ![Filosofos comiendo img](https://alexbasededatos.files.wordpress.com/2016/09/cenafilosofos.gif?w=676)
 
 Si dos filósofos adyacentes intentan tomar el mismo palillo a una vez, se produce una condición de carrera: ambos compiten por tomar el mismo tenedor, y uno de ellos se queda sin comer.
 
