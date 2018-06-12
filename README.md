@@ -10,3 +10,5 @@ Si dos filósofos adyacentes intentan tomar el mismo palillo a una vez, se produ
 Si todos los filósofos toman el palillo que está a su derecha al mismo tiempo, entonces todos se quedarán esperando eternamente, porque alguien debe liberar el palillo que les falta. Nadie lo hará porque todos se encuentran en la misma situación (esperando que alguno deje sus palillos). Entonces los filósofos se morirán de hambre. Este bloqueo mutuo se denomina interbloqueo o deadlock.
 
 El problema consiste en encontrar un algoritmo que permita que los filósofos nunca se mueran de hambre.
+
+### Projecto hecho en NetBeans IDE 8.2
